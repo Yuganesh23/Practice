@@ -1,2 +1,5 @@
 Hello Git!
 My first version control project.
+
+Learning Git Day 2.
+
